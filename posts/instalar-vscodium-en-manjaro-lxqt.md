@@ -7,7 +7,7 @@ tags: [free-software, IDE]
 math: true
 ---
 
-![vscodium 1](/assets/img_posts/post7_img0.png)
+![vscodium 1](/assets/img_posts/post7_img0.webp)
 
 Holaaa! tiempo sin escribir algo. ¿cierto?, pues nada... estaba con mis estudios a full y bueno no quedaba mucho tiempo.
 Para el dia de hoy quiero contarles un poco como instalar VSCodium en manjaro. Y... ¿eso que es?.
@@ -27,23 +27,23 @@ Manjaro trae por defecto un package manager que pienso es la manera mas intuitiv
 - Paso 1:
   Iremos al icono en la esquina inferior izquierda (en mi caso el dock esta en la parte superior, por defecto esta abajo) de nuestro menu, este es el menu de aplicaciones. Una vez desplegada la ventana pinchamos sobre **Preferencias** y luego sobre **agregar/remover software**, dejo la imagen para mas claridad:
 
-![menu 1](/assets/img_posts/post7_img1.png)
+![menu 1](/assets/img_posts/post7_img1.webp)
 
 - Paso 2:
   Se nos abrirá una ventana como esta:
 
-![package manager](/assets/img_posts/post7_img2.png)
+![package manager](/assets/img_posts/post7_img2.webp)
 
 Verificamos que la pestaña **Browse** esté seleccionada o simplemente pinchamos en el icono con aspecto de lupa, luego de realizar esa acción nos aparecerá la barra de búsqueda donde escribiremos: **vsc**. Algo así...
 
-![package manager 2](/assets/img_posts/post7_img3.png)
+![package manager 2](/assets/img_posts/post7_img3.webp)
 
 - Paso 3:
   El primer resultado como se nota en la imagen anterior es **vscodium-bin**, recomiendo usar este paquete pues ya esta pre-compilado y no tendrá que hacer la compilación del código fuente tu compu, y les juro que se toma su tiempo 😆😆, por lo menos en mi compu si.
   Para iniciar el proceso de instalación solo haces click sobre el icono azul con la flecha que indica hacia abajo, en la imagen mi icono es diferente y es simplemente porque ya lo tengo instalado.
   Para Terminar solo deben regresar al menu de aplicaciones antes mencionado y ubicar la opción **programación**, en el menu emergente estará disponible como nueva opción el flamante **VSCodium**.
 
-![vscodium 2](/assets/img_posts/post7_img4.png)
+![vscodium 2](/assets/img_posts/post7_img4.webp)
 
 Listo!! happy coding!!...
 

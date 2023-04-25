@@ -7,7 +7,7 @@ tags: [backend, nodeJS, expressJS, Sequelize]
 math: true
 ---
 
-![heroku 1](/assets/img_posts/post8_img0.png)
+![heroku 1](/assets/img_posts/post8_img0.webp)
 
 Buenos días a todos!! hoy voy a mostrarles como hice para dejar online mi proyecto individual para el E-learning [HENRY](https://www.soyhenry.com/) del cual me gradué como Jr Full stack web developer. He utilizado dos plataformas bastante conocidas (creo) y en una de ellas me encontré con algunas cosas o configuraciones que no entendía.
 Exactamente estoy hablando sobre heroku. La aplicación esta construida con nodeJS, el framework expressJS, reactJS pare el front y uso Sequelize (ORM) para la manipulación de la base de datos (postgres).
@@ -32,7 +32,7 @@ La cuestión es que heroku me permite conectar el repositorio de [github](https:
 
 Nada en la vida es perfecto... resulta que al enlazar el repositorio con la plataforma el deploy se genera sobre el directorio raíz del proyecto y nuestro directorio raíz tiene dos carpetas: API(backend) y client(frontend).
 
-![github 1](/assets/img_posts/post8_img1.png)
+![github 1](/assets/img_posts/post8_img1.webp)
 
 La imagen anterior nos da una idea de a que me refiero. Ahora, si heroku intenta hacer un deploy de ese repositorio no encontrará los archivos necesario para entender como compilar e iniciar nuestra aplicación (esta es mi hipótesis). Entonces hay que indicarle que vamos a entrar a la carpeta **api** y desde ahi haremos el lanzamiento. ¿como?
 
@@ -53,7 +53,7 @@ sudo yay -Sy heroku-cli-bin
 
 Nos saldrá una pregunta tipo: _Diffs to show?_, simplemente presionamos _N_ para continuar. También veremos: _Proceed with install? Y/n_, obviamente presionaremos _y_. Tomara unos minutos dependiendo de la conexión y veremos algo asi:
 
-![github 1](/assets/img_posts/post8_img2.png)
+![github 1](/assets/img_posts/post8_img2.webp)
 
 ¡Listo! tenemos heroku-cli instalado.
 
@@ -72,13 +72,13 @@ Se abrirá el navegador y ahi procederemos a ingresar nuestra información de lo
 
 Lo que sigue es ubicarnos sobre la carpeta con nuestro backend (api), desde la terminar navegaremos hasta ahí.
 
-![github 1](/assets/img_posts/post8_img4.png)
+![github 1](/assets/img_posts/post8_img4.webp)
 
 Luego debemos asociar este código fuente con nuestra app de heroku previamente creada. ¿No lo hicimos? ok, ok, una (mejor varias 🤣) imagen vale mas que mi palabras.
 
-![github 1](/assets/img_posts/post8_img5.png)
-![github 1](/assets/img_posts/post8_img6.png)
-![github 1](/assets/img_posts/post8_img7.png)
+![github 1](/assets/img_posts/post8_img5.webp)
+![github 1](/assets/img_posts/post8_img6.webp)
+![github 1](/assets/img_posts/post8_img7.webp)
 
 continuamos... Con la app creada y ubicados sobre la raíz del proyecto, desde la terminal ejecutamos:
 
@@ -93,7 +93,7 @@ Para eso ejecutamos:
 git subtree push --prefix nombre_de_la_carpeta_que_tiene_la_fuente_del_backend heroku master
 ```
 
-![github 1](/assets/img_posts/post8_img8.png)
+![github 1](/assets/img_posts/post8_img8.webp)
 
 A la izquierda el resultado de ejecutar el comando anterior y a la derecha de la imagen el **log** que nos facilita heroku. Para ver este log debes abrir otra terminal, ir al directorio raíz de la aplicación y ejecutar:
 
@@ -103,8 +103,8 @@ heroku logs --tail
 
 Por ultimo no olviden configurar sus variables de entorno en la pestaña **setting** y el **buildpacks** de la app.
 
-![github 1](/assets/img_posts/post8_img9.png)
-![github 1](/assets/img_posts/post8_img10.png)
+![github 1](/assets/img_posts/post8_img9.webp)
+![github 1](/assets/img_posts/post8_img10.webp)
 
 Listo!! happy coding!!...
 Para el proximo articulo les explicare como usar la base de datos de heroku y conectarla con la app.

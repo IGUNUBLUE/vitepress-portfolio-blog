@@ -7,7 +7,7 @@ tags: [ArchLinux, free-software, Tutorial]
 math: true
 ---
 
-![image 1](/assets/img_posts/post6_img0.png)
+![image 1](/assets/img_posts/post6_img0.webp)
 
 Hola!, Buenos días! Teniendo siempre en cuenta mi compromiso de compartir todo aquello que pueda ahorra tiempo a quienes inician en el multiverso GNU/Linux, compartiré unos cortos pasos para instalar el negador web Brave; obviamente en Arch linux.
 
@@ -23,19 +23,19 @@ Lo que me gusta hacer a mi, es ir a la pagina https://aur.archlinux.org/ aquí s
 
 La anterior url nos dirige hacia el repositorio comunitario de arch.
 
-![image 2](/assets/img_posts/post6_img1.png)
+![image 2](/assets/img_posts/post6_img1.webp)
 
 Como lo señalo en la imagen anterior, solo debemos escribir el nombre del paquete que necesitamos en el campo **Package search**.
 
-![image 3]({{ "/assets/img_posts/post6_img2.png" | relative_url }})
+![image 3](/assets/img_posts/post6_img2.webp)
 
 Los resultados para brave son varios. Basta con usar como referente para escoger el paquete los item **Votes** y **Popularity**, el mejor calificado por la comunidad sera el ganador, en esta caso lo señale con la linea roja. Damos click en el nombre y nos enviará a su pagina de detalles, ahí encontraremos mucha mas información y la url del código fuente para clonar y “compilar”.
 
-![image 4](/assets/img_posts/post6_img3.png)
+![image 4](/assets/img_posts/post6_img3.webp)
 
 Copiamos (click derecho, copiar URL) el Git Clone URL para usarlo en nuestra terminal.
 
-![image 5](/assets/img_posts/post6_img4.png)
+![image 5](/assets/img_posts/post6_img4.webp)
 
 Usaremos la sentencia **git clone** mas la dirección del repo que copiamos anteriormente para clonar de manera local, algo así:
 
@@ -45,7 +45,7 @@ $ git clone https://aur.archlinux.org/brave-bin.git
 
 Una vez se tiene descargado el código fuente pasaremos a compilar ubicándonos dentro de la carpeta del repositorio **git** que acabamos de clonar, generalmente tiene el nombre del proyecto.
 
-![image 6](/assets/img_posts/post6_img5.png)
+![image 6](/assets/img_posts/post6_img5.webp)
 
 Yo siempre tengo una carpeta en mi home a la que llamo **Aur** dentro de esta carpeta mantengo todos los repositorios que he clonado para así ir actualizando con un **git pull**.
 

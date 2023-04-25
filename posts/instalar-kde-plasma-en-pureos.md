@@ -7,7 +7,7 @@ tags: [PureOS, free-software, Tutorial]
 math: true
 ---
 
-![search program](/assets/img_posts/post4_img0.png)
+![search program](/assets/img_posts/post4_img0.webp)
 
 Llega el domingo y nuevamente tengo ganas de compartir algo. En esta ocasión no hablaré del software la ostia (virt-manager)😂😂, mas bien quiero compartir procedimientos que he estado realizando en el nuevo sistemas operativo GNU/linux que estoy probando. PureOS es un sistema libre, a tal punto es libre que se encuentra en la lista de distribuciones recomendadas por la FSF (Free Software Foundation) y eso para los recién llegados al diverso mundo del software libre es quizás un excelente argumento a tener en cuenta. Desde ya quiero decir que no voy a caer en lo extremista con el tema software libre, no deseo entrar en discusiones tontas, cada uno es libre de interpretar y usar lo que mejor le parezca (una de las cosas bonitas de GNU/linux) ❤️❤️
 
@@ -27,7 +27,7 @@ Plasma con las paquetes mínimos para el correcto funcionamiento y sin tantos pr
 $ sudo apt install kde-plasma-desktop
 ```
 
-![search program](/assets/img_posts/post4_img1.png)
+![search program](/assets/img_posts/post4_img1.webp)
 
 Una imagen parecida a esta será lo que veremos, simplemente presionamos la tecla “y” para aceptar. Quiero advertir que con esta alternativa no están disponibles ciertos paquetes y funciones, una de ellas es el encargado de mostrar el icono que permite administrar las conexiones de red desde el panel principal de plasma (el icono del computador), dicho paquete se llama **plasma-nm** por si quieres encontrarlo rápidamente e instalarlo.
 
@@ -41,7 +41,7 @@ $ sudo apt install pureos-plasma
 
 Digitamos nuestra clave si la solicita, aceptamos y esperamos a que termine la descarga e instalación de los paquetes. En algún momento de la instalación nos preguntará cual será el administrador de sesión (la pantalla donde escogemos el usuario) del sistema, esta parte muestra dos opciones GDM o SDDM, una es la de gnome y la otra es de plasma, yo siempre escojo la de plasma (SDDM) y lo recomiendo por si en algún momento decides desinstalar gnome completamente.
 
-![search program](/assets/img_posts/post4_img2.png)
+![search program](/assets/img_posts/post4_img2.webp)
 
 Aquí una imagen donde señalo como cambiar entre entornos de escritorio, la ubicación del menú es diferente en GDM, si mal lo recuerdo esta en la parte superior. En el pueden intercambiar entre plasma y gnome.
 
