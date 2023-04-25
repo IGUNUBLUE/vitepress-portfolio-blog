@@ -6,7 +6,7 @@ hero:
   text: Lenin Garizabalo
   tagline: Passionate JavaScript enthusiast from Colombia who loves to create and deliver high-quality products
   image: 
-    src: assets/me.png
+    src: /assets/me.png
     alt: men_using_a_computer
   actions:
     - theme: brand
