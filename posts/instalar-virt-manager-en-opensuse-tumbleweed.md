@@ -10,7 +10,7 @@ next:
   text: "Mi primera maquina virtual con virt manager"
   link: "posts/mi-primera-maquina-virtual-con-virt-manager"
 ---
-
+# Instalar virt-manager en Opensuse Tumbleweed
 ![search program](/assets/img_posts/post1_img0.webp)
 
 Bueno… Hace algunos años estoy usando software libre, pero con los años te vas enterando que el mundo del software libre también tiene excepciones a la regla en lo que respecta a los parámetros de “software libre”, todos no parecen estar de acuerdo al 100% con la filosofía stallman o simplemente no se quieren complicar.

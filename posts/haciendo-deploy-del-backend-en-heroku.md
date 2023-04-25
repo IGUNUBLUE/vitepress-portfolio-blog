@@ -10,7 +10,7 @@ prev:
   link: 'posts/instalar-vscodium-en-manjaro-lxqt'
 next: false
 ---
-
+# Haciendo deploy del backend en heroku
 ![heroku 1](/assets/img_posts/post8_img0.webp)
 
 Buenos días a todos!! hoy voy a mostrarles como hice para dejar online mi proyecto individual para el E-learning [HENRY](https://www.soyhenry.com/) del cual me gradué como Jr Full stack web developer. He utilizado dos plataformas bastante conocidas (creo) y en una de ellas me encontré con algunas cosas o configuraciones que no entendía.

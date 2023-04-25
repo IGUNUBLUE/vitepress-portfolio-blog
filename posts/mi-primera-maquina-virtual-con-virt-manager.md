@@ -12,7 +12,7 @@ next:
   text: "Virtual network default nat virt manager"
   link: "posts/virtual-network-default-nat-virt-manager"
 ---
-
+# Mi primera máquina virtual con virt-manager
 ![search program](/assets/img_posts/post2_img0.webp)
 
 Hola!… nuevamente yo, esta vez escribo con la intención de cumplir con mi compromiso. Como prometí en mi anterior articulo [(Instalar virt-manager en opensuse tumbleweeb)](https://igunublue.github.io/posts/Instalar-virt-manager-en-Opensuse-Tumbleweed/) voy a compartir los pasos básicos para crear una maquina virtual en virt-manager, pero antes de nada deseo confesar que de experto no tengo nada, soy un enamorado de software libre con unos años en el y como cualquier otro que lleve tiempo usando GNU/linux sabe resolver cosillas; puedo decir incluso que no he pasado de ser un usuario home. En todo caso me place dejar estas migajas para que aquellos que estén iniciándose puedan dar forma a sus objetivos GNU/linuxeros. 😉

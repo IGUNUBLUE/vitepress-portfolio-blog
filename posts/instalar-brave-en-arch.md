@@ -12,7 +12,7 @@ next:
   text: "Instalar vscodium en manjaro lxqt"
   link: "posts/instalar-vscodium-en-manjaro-lxqt"
 ---
-
+# Instalar brave (navegador) en Arch
 ![image 1](/assets/img_posts/post6_img0.webp)
 
 Hola!, Buenos días! Teniendo siempre en cuenta mi compromiso de compartir todo aquello que pueda ahorra tiempo a quienes inician en el multiverso GNU/Linux, compartiré unos cortos pasos para instalar el negador web Brave; obviamente en Arch linux.

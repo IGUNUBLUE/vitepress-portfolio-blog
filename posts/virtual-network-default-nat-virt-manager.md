@@ -12,7 +12,7 @@ next:
   text: "Instalar KDE-plasma en pureos"
   link: "posts/instalar-kde-plasma-en-pureos"
 ---
-
+# Virtual network default:NAT(Inactive) – Virt manager
 ![search program](/assets/img_posts/post3_img0.webp)
 
 🙄🤣🤣 Si otra vez yo y ademas con el mismo tema. Chicos esto se que servirá a otros por eso lo comparto y como estoy haciendo un auto “entrenamiento intensivo” de virt manager comparto lo que voy encontrando. Hoy después de instalar pureOS (mi nuevo juguete) en el sorprendentemente funcional VM (virt-manager) me encuentro con la sorpresa que no tenia conexión a internet en la máquina virtual (MV); ahí me dispongo a entrar en las configuraciones de red de VM de la MV y verificar que pasaba. Para mi sorpresa encuentro un mensaje que decía: _Virtual network ‘default’ : NAT(Inactive)_ en el adaptador de red.

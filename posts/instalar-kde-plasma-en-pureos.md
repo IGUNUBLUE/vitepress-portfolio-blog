@@ -12,7 +12,7 @@ next:
   text: "Me quedo en arch"
   link: "posts/me-quedo-en-arch"
 ---
-
+# Instalar KDE-Plasma (Desktop Environment) en PureOS
 ![search program](/assets/img_posts/post4_img0.webp)
 
 Llega el domingo y nuevamente tengo ganas de compartir algo. En esta ocasión no hablaré del software la ostia (virt-manager)😂😂, mas bien quiero compartir procedimientos que he estado realizando en el nuevo sistemas operativo GNU/linux que estoy probando. PureOS es un sistema libre, a tal punto es libre que se encuentra en la lista de distribuciones recomendadas por la FSF (Free Software Foundation) y eso para los recién llegados al diverso mundo del software libre es quizás un excelente argumento a tener en cuenta. Desde ya quiero decir que no voy a caer en lo extremista con el tema software libre, no deseo entrar en discusiones tontas, cada uno es libre de interpretar y usar lo que mejor le parezca (una de las cosas bonitas de GNU/linux) ❤️❤️

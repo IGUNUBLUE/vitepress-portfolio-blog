@@ -12,7 +12,7 @@ next:
   text: "Instalar brave en arch"
   link: "posts/instalar-brave-en-arch"
 ---
-
+# Me quedo en Arch linux
 ![search program](/assets/img_posts/post5_img0.webp)
 
 Primero que nada pedir disculpa por no escribir con frecuencia, la verdad la falta de tiempo por el incremento de las actividades relacionadas con mi trabajo no dejan tiempo para escribir con tranquilidad… aquí estoy, así que continuemos…

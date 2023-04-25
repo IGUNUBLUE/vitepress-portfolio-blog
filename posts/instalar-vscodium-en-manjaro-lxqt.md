@@ -12,7 +12,7 @@ next:
   text: "Haciendo deploy del backend en heroku"
   link: "posts/haciendo-deploy-del-backend-en-heroku"
 ---
-
+# Instalar VSCodium en manjaro LXQT
 ![vscodium 1](/assets/img_posts/post7_img0.webp)
 
 Holaaa! tiempo sin escribir algo. ¿cierto?, pues nada... estaba con mis estudios a full y bueno no quedaba mucho tiempo.
