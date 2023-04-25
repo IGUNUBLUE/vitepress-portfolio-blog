@@ -43,7 +43,7 @@ En lo antes mencionados creo que muchas ventajas hacen parte de las opciones GNU
 
 **¿Que pasaría si lo quiero hacer por mi mismo?** (personalizaciones y demás) y ademas deseo con todas mis fuerzas evadir el rudimentario proceso de instalación. Pues que entonces esos entusiastas de los que hable y estoy seguro que pensaron igual que yo, resolvieron el problema. **¿como lo resolvieron?** Crearon anarchy installer.
 
-![search program](/assets/img_posts/post5_img2.png")
+![search program](/assets/img_posts/post5_img2.png)
 
 **Anarchy installer** es la joya que faltaba a la corona Arch, simple como pregonan y amable con quienes empiezan a tropezar con asistentes de instalación apartados del típico “Siguiente”. La verdad no tengo mucho que decir aparte de lo que esta disponible en innumerables tutoriales e incluso en su propia pagina web, solo agregaré que puedes escoger desde entornos ya personalizados hasta apps muy conocidas como VLC. A continuación dejo la web para que hagan la tarea ¡no todo es papilla, hay que darle!
 

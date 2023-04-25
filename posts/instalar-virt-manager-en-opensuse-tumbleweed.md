@@ -35,7 +35,7 @@ Una vez hacemos click sobre el asistente grafico de instalación de paquetes (Ya
 
 En esta ventana nos interesa el apartado **View**, damos click y nos aparecerá una lista desplegable con 6 opciones, la que nos interesa es la numero 1 **Patterns**.
 
-![YaST Software](/assets/img_posts/post1_img3.png")
+![YaST Software](/assets/img_posts/post1_img3.png)
 
 Ahora veremos del lado izquierda todos el software disponible en los repositorios de opensuse tumbleweed organizados por patrones, con esta ventaja podremos ubicar de forma unificada el conjunto de paquetes necesarios para la instalación de virt-manager. En dicha lista nos desplazamos hacia abajo usando la rueda del mouse o usando la barra para desplazarse; así encontramos los patrones **KVM Host Server**, **KVM Virtualization Host and Tools**, seleccionamos y presionamos **Accept** para iniciar la instalación.
 
@@ -44,7 +44,7 @@ Ahora veremos del lado izquierda todos el software disponible en los repositorio
 
 Terminada la instalación podemos cerrar la ventana y ahora abrimos una terminal para ejecutar un comando, puedes copiar con control+c y pegar en la terminal con shift+Ctrl+v, presiona enter, ingresa tu contraseña y listo. El comando es:
 
-```terminal
+```
 $ sudo systemctl enable --now libvirtd
 ```
 

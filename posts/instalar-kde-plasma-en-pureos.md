@@ -23,7 +23,7 @@ Si al igual que yo te gusta mucho plasma y después de instalar [PureOS](https:/
 
 Plasma con las paquetes mínimos para el correcto funcionamiento y sin tantos programas no deseados. Para ello abrimos una terminal y digitamos o copiar-pegar:
 
-```terminal
+```
 $ sudo apt install kde-plasma-desktop
 ```
 
@@ -35,7 +35,7 @@ Una imagen parecida a esta será lo que veremos, simplemente presionamos la tecl
 
 El equipo de pure sabe que no todo usamos gnome y que KDE-Plasma aporta mucho a la usabilidad, por eso (imagino) tienen disponible un paquete llamado **pureos-plasma**, este se encarga de instalar y configurar todo para dejar plasma a punto. Para instalar escribimos:
 
-```terminal
+```
 $ sudo apt install pureos-plasma
 ```
 

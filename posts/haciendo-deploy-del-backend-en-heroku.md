@@ -41,13 +41,13 @@ La imagen anterior nos da una idea de a que me refiero. Ahora, si heroku intenta
 Como saben uso GNU/Linux (manjaro LXQT) y la instalación la haré sobre dicho sistema, pero igual les dejo el link a la documentación para que pueden hacerlo en su sistema favorito. [¡CLICK AQUÍ!](https://devcenter.heroku.com/articles/heroku-cli).
 Abrimos una terminal presionando **Ctrl+Alt+t**, escribimos:
 
-```terminal
+```
 sudo pacman -Sy yay
 ```
 
 De esta forma tendremos **yay** que se encargará de buscar el paquete en el repositorio comunitario de arch (AUR). luego:
 
-```terminal
+```
 sudo yay -Sy heroku-cli-bin
 ```
 
@@ -61,7 +61,7 @@ Nos saldrá una pregunta tipo: _Diffs to show?_, simplemente presionamos _N_ par
 
 Para poder operar con las apps que tenemos en heroku primero debemos autenticarnos y eso lo haremos con el comando:
 
-```terminal
+```
 heroku login
 ```
 
@@ -82,14 +82,14 @@ Luego debemos asociar este código fuente con nuestra app de heroku previamente 
 
 continuamos... Con la app creada y ubicados sobre la raíz del proyecto, desde la terminal ejecutamos:
 
-```terminal
+```
 heroku git:remote -a nombre_de_nuestra_app_en_heroku
 ```
 
 Con esto asociamos nuestro código fuente con la app creada en heroku. Lo que sigue es empujar solo la carpeta del backend.
 Para eso ejecutamos:
 
-```terminal
+```
 git subtree push --prefix nombre_de_la_carpeta_que_tiene_la_fuente_del_backend heroku master
 ```
 
@@ -97,7 +97,7 @@ git subtree push --prefix nombre_de_la_carpeta_que_tiene_la_fuente_del_backend h
 
 A la izquierda el resultado de ejecutar el comando anterior y a la derecha de la imagen el **log** que nos facilita heroku. Para ver este log debes abrir otra terminal, ir al directorio raíz de la aplicación y ejecutar:
 
-```terminal
+```
 heroku logs --tail
 ```
 
