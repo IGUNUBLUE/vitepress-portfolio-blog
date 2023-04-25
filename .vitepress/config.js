@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Lenin AGC",
   description: "My portfolio/blog made with VitePress",
   themeConfig: {
+    appearance: "dark",
     nav: [
       { text: "Home", link: "/" },
       { text: "Blog", link: "/blog-index" },
