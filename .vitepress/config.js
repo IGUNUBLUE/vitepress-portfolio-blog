@@ -7,6 +7,9 @@ export default defineConfig({
   title: "Lenin AGC",
   description: "My portfolio/blog made with VitePress",
   appearance: "dark",
+  head: [
+    ["script", { src: "/_vercel/insights/script.js", defer: true }],
+  ],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
