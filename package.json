@@ -7,10 +7,15 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "keywords": ["portfolio", "blog", "vitepress"],
+  "keywords": [
+    "portfolio",
+    "blog",
+    "vitepress"
+  ],
   "author": "Lenin Garizabalo",
   "license": "MIT",
   "devDependencies": {
+    "@vercel/analytics": "^1.0.0",
     "vitepress": "1.0.0-alpha.74"
   }
 }

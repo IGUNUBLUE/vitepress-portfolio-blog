@@ -1,4 +1,7 @@
 import { defineConfig } from "vitepress";
+import { inject } from '@vercel/analytics';
+ 
+inject(); // vercel-analytics
 
 export default defineConfig({
   title: "Lenin AGC",
