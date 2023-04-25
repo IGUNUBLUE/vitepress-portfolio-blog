@@ -5,6 +5,12 @@ date: 2021-05-16 19:33:00
 categories: [GNU/Linux, Manjaro]
 tags: [free-software, IDE]
 math: true
+prev:
+  text: "Instalar brave en arch"
+  link: "posts/instalar-brave-en-arch"
+next:
+  text: "Haciendo deploy del backend en heroku"
+  link: "posts/haciendo-deploy-del-backend-en-heroku"
 ---
 
 ![vscodium 1](/assets/img_posts/post7_img0.webp)

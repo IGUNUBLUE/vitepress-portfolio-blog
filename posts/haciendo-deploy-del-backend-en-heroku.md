@@ -5,6 +5,10 @@ date: 2021-05-29 12:33:00
 categories: [Deploy-tools, Heroku]
 tags: [backend, nodeJS, expressJS, Sequelize]
 math: true
+prev:
+  text: 'Instalar vscodium en manjaro lxqt'
+  link: 'posts/instalar-vscodium-en-manjaro-lxqt'
+next: false
 ---
 
 ![heroku 1](/assets/img_posts/post8_img0.webp)

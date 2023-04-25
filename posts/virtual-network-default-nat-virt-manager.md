@@ -5,6 +5,12 @@ date: 2020-06-22 15:33:00
 categories: [GNU/Linux, Virtualization]
 tags: [opensuse-tumbleweed, free-software, virt-manager, Tutorial]
 math: true
+prev:
+  text: "Mi primera maquina virtual con virt manager"
+  link: "posts/mi-primera-maquina-virtual-con-virt-manager"
+next:
+  text: "Instalar KDE-plasma en pureos"
+  link: "posts/instalar-kde-plasma-en-pureos"
 ---
 
 ![search program](/assets/img_posts/post3_img0.webp)

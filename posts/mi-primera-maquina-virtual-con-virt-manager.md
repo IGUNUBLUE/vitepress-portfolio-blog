@@ -5,6 +5,12 @@ date: 2020-06-15 13:33:00
 categories: [GNU/Linux, Virtualization]
 tags: [opensuse-tumbleweed, free-software, virt-manager, Tutorial]
 math: true
+prev:
+  text: "Instalar virt-manager en opensuse tumbleweed"
+  link: "posts/instalar-virt-manager-en-opensuse-tumbleweed"
+next:
+  text: "Virtual network default nat virt manager"
+  link: "posts/virtual-network-default-nat-virt-manager"
 ---
 
 ![search program](/assets/img_posts/post2_img0.webp)

@@ -10,13 +10,13 @@ hero:
     alt: men_using_a_computer
   actions:
     - theme: brand
-      text: Find me on LinkedIn!
+      text: Find me on LinkedIn
       link: https://www.linkedin.com/in/lenin-garizabalo
     - theme: alt 
-      text: Blog posts here!
+      text: Blog posts here
       link: /blog-index.md
     - theme: alt 
-      text: See my code!
+      text: See my code
       link: https://github.com/IGUNUBLUE
 
 features:

@@ -5,6 +5,12 @@ date: 2020-10-11 14:33:00
 categories: [GNU/Linux, Browser]
 tags: [ArchLinux, free-software, Tutorial]
 math: true
+prev:
+  text: "Me quedo en arch"
+  link: "posts/me-quedo-en-arch"
+next:
+  text: "Instalar vscodium en manjaro lxqt"
+  link: "posts/instalar-vscodium-en-manjaro-lxqt"
 ---
 
 ![image 1](/assets/img_posts/post6_img0.webp)

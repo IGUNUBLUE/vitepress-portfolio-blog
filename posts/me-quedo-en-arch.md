@@ -5,6 +5,12 @@ date: 2020-09-19 13:48:00
 categories: [GNU/Linux, Arch]
 tags: [free-software, archlinux]
 math: true
+prev:
+  text: "Instalar KDE-plasma en pureos"
+  link: "posts/instalar-kde-plasma-en-pureos"
+next:
+  text: "Instalar brave en arch"
+  link: "posts/instalar-brave-en-arch"
 ---
 
 ![search program](/assets/img_posts/post5_img0.webp)

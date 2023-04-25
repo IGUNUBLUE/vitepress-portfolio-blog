@@ -5,6 +5,12 @@ date: 2020-06-29 14:33:00
 categories: [GNU/Linux, PureOS]
 tags: [PureOS, free-software, Tutorial]
 math: true
+prev:
+  text: "Virtual network default nat virt manager"
+  link: "posts/virtual-network-default-nat-virt-manager"
+next:
+  text: "Me quedo en arch"
+  link: "posts/me-quedo-en-arch"
 ---
 
 ![search program](/assets/img_posts/post4_img0.webp)
