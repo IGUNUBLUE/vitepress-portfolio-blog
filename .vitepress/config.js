@@ -3,8 +3,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Lenin AGC",
   description: "My portfolio/blog made with VitePress",
+  appearance: "dark",
   themeConfig: {
-    appearance: "dark",
     nav: [
       { text: "Home", link: "/" },
       { text: "Blog", link: "/blog-index" },
