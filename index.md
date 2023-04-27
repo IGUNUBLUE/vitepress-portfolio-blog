@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Full Stack Web Dev
   text: Lenin Garizabalo
-  tagline: Passionate JavaScript enthusiast from Colombia who loves to create and deliver high-quality products
+  tagline: Passionate JavaScript enthusiast from Colombia who loves to create and deliver high-quality products.
   image: 
     src: /me.png
     alt: men_using_a_computer
@@ -30,6 +30,6 @@ features:
     details: Give me a challenge and I will turn it into a purpose.
   - title: Curious
     details: I am always exploring new and efficient technologies, not just programming languages.
-  - title: Enthusiast of open source
+  - title: Free software enthusiast
     details: I love the philosophy of free software. It has changed the way software is created.
 ---
