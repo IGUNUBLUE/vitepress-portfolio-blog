@@ -21,11 +21,11 @@ hero:
 
 features:
   - title: Javascript
-    details: +2 year of experience. it's my first programming language, before I used to PHP.
+    details: +1.7 year of experience. it's my first programming language, before I used to PHP.
   - title: NodeJs
-    details: +2 year of experience. My first backend technology.
+    details: +1.7 year of experience. My first backend technology.
   - title: React
-    details: +2 year of experience, using NextJs in my daily tasks, but I also love Vue and Rust.
+    details: +1.7 year of experience, using NextJs in my daily tasks, but I also love Vue and Rust.
   - title: Self-management
     details: Give me a challenge and I will turn it into a purpose.
   - title: Curious
