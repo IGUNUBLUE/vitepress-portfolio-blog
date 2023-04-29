@@ -15,8 +15,8 @@ export default defineConfig({
         text: "Posts",
         items: [
           {
-            text: "How to configure vercel-analytics in vitepress",
-            link: "posts/how-to-configure-vercel-analytics-in-vitepress",
+            text: "How to Add Vercel/Analytics to Vitepress Projects",
+            link: "posts/how-to-add-vercel-analytics-to-vitepress-projects.md",
           },
           {
             text: "Haciendo deploy del backend en heroku",

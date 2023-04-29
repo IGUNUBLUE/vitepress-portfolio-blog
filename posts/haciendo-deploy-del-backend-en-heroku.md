@@ -8,7 +8,9 @@ math: true
 prev:
   text: 'Instalar vscodium en manjaro lxqt'
   link: 'posts/instalar-vscodium-en-manjaro-lxqt'
-next: false
+next:
+  text: 'How to add vercel-analytics to vitepress'
+  link: 'posts/how-to-add-vercel-analytics-to-vitepress-projects.md'
 ---
 # Haciendo deploy del backend en heroku
 ![heroku 1](/assets/img_posts/post8_img0.webp)
