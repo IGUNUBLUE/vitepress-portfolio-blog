@@ -1,15 +1,10 @@
 import { defineConfig } from "vitepress";
-import { inject } from '@vercel/analytics';
- 
-inject(); // vercel-analytics
 
 export default defineConfig({
   title: "Lenin AGC",
   description: "My portfolio/blog made with VitePress",
   appearance: "dark",
-  head: [
-    ["script", { src: "/_vercel/insights/script.js", defer: true }],
-  ],
+  head: [["script", { src: "/_vercel/insights/script.js", defer: true }]],
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
@@ -19,6 +14,10 @@ export default defineConfig({
       {
         text: "Posts",
         items: [
+          {
+            text: "How to configure vercel-analytics in vitepress",
+            link: "posts/how-to-configure-vercel-analytics-in-vitepress",
+          },
           {
             text: "Haciendo deploy del backend en heroku",
             link: "posts/haciendo-deploy-del-backend-en-heroku",
