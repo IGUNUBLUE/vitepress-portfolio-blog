@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Full Stack Web Dev
-  text: Lenin Garizabalo
+  text: Lenin AGC
   tagline: Passionate JavaScript enthusiast from Colombia who loves to create and deliver high-quality products.
   image: 
     src: /me.png
@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Find me on LinkedIn
-      link: https://www.linkedin.com/in/lenin-garizabalo
+      link: https://www.linkedin.com/in/3s2nd3ydj7
     - theme: alt 
       text: Blog posts here
       link: /blog-index.md

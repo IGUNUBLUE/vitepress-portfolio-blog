@@ -62,10 +62,9 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/IGUNUBLUE" },
-      { icon: "twitter", link: "https://twitter.com/lenin_agc" },
       {
         icon: "linkedin",
-        link: "https://www.linkedin.com/in/lenin-garizabalo/",
+        link: "https://www.linkedin.com/in/3s2nd3ydj7/",
       },
     ],
     footer: {

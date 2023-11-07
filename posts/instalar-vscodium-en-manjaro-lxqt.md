@@ -1,6 +1,6 @@
 ---
 title: Instalar VSCodium en manjaro LXQT
-author: Lenin Garizabalo
+author: Lenin AGC
 date: 2021-05-16 19:33:00
 categories: [GNU/Linux, Manjaro]
 tags: [free-software, IDE]

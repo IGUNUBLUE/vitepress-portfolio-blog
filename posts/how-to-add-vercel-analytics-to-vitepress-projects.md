@@ -1,6 +1,6 @@
 ---
 title: How to Add Vercel/Analytics to Vitepress Projects
-author: Lenin Garizabalo
+author: Lenin AGC
 date: 2023-04-29 13:47:00
 categories: [analytics]
 tags: [vitepress, vercel, analytics]
