@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Find me on LinkedIn
-      link: https://www.linkedin.com/in/3s2nd3ydj7
+      link: https://www.linkedin.com/in/lenin-agc
     - theme: alt 
       text: Blog posts here
       link: /blog-index.md
