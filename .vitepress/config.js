@@ -64,7 +64,7 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/IGUNUBLUE" },
       {
         icon: "linkedin",
-        link: "https://www.linkedin.com/in/3s2nd3ydj7/",
+        link: "https://www.linkedin.com/in/lenin-agc",
       },
     ],
     footer: {
