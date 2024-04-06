@@ -1,6 +1,26 @@
 import { defineConfig } from "vitepress";
 
+import calculateYearsOfExperience from "../utils/calculateYearsOfExperiences";
+
 export default defineConfig({
+  transformPageData(pageData) {
+    if (
+      pageData.frontmatter.layout === "home" &&
+      Object.keys(pageData.frontmatter.features)?.length
+    ) {
+      const experience = calculateYearsOfExperience("2021-08-02");
+
+      pageData.frontmatter.features[0].details = `${experience.toFixed(
+        1
+      )} years of experience in front-end development, proficient in JavaScript after starting with PHP.`;
+      pageData.frontmatter.features[1].details = `${experience.toFixed(
+        1
+      )} years building dynamic UIs with React, driven by a passion for modern JavaScript frameworks.`;
+      pageData.frontmatter.features[2].details = `${experience.toFixed(
+        1
+      )} years' expertise in server-side rendering and full-stack JavaScript development using Next.js.`;
+    }
+  },
   title: "Lenin AGC",
   description: "My portfolio/blog made with VitePress",
   appearance: "dark",

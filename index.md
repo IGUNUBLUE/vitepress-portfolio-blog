@@ -20,16 +20,16 @@ hero:
       link: https://github.com/IGUNUBLUE
 
 features:
-  - title: Javascript
-    details: +2 year of experience. it's my first programming language, before I used to PHP.
-  - title: NodeJs
-    details: +2 year of experience. My first backend technology.
-  - title: React
-    details: +2 year of experience, using NextJs in my daily tasks, but I also love Vue and Rust.
-  - title: Self-management
-    details: Give me a challenge and I will turn it into a purpose.
-  - title: Curious
-    details: I am always exploring new and efficient technologies, not just programming languages.
-  - title: Free software enthusiast
-    details: I love the philosophy of free software. It has changed the way software is created.
+- title: Javascript
+  details: null
+- title: React
+  details: null
+- title: NextJs
+  details: null
+- title: Self-management
+  details: Thrives on challenges, turning them into achievements with minimal guidance.
+- title: Curious
+  details: Constantly exploring new technology frontiers, going beyond just programming languages.
+- title: Free software enthusiast
+  details: Advocates for open-source software, embracing its impact on software innovation.
 ---
