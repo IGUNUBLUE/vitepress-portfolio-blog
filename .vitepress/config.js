@@ -42,6 +42,10 @@ export default defineConfig({
         text: "Posts",
         items: [
           {
+            text: "My first new AUR package contribution.",
+            link: "posts/my-first-new-aur-package-contribution.md",
+          },
+          {
             text: "How to Add Vercel/Analytics to Vitepress Projects",
             link: "posts/how-to-add-vercel-analytics-to-vitepress-projects.md",
           },

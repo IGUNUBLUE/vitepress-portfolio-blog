@@ -8,7 +8,9 @@ math: true
 prev:
   text: "Haciendo deploy del backend en heroku"
   link: "posts/haciendo-deploy-del-backend-en-heroku"
-next: false
+next:
+  text: "My first new aur package contribution"
+  link: "posts/my-first-new-aur-package-contribution"
 ---
 # How to Add Vercel/Analytics to Vitepress Projects
 ![vitepress logo with clouds](/assets/img_posts/post9_img0.webp)
