@@ -67,6 +67,4 @@ To resolve this issue, I updated the pkgname variable in the PKGBUILD file to ma
 ## Conclusion
 Contributing to the AUR by uploading a package is a great way to give back to the Arch Linux community. It allows others to easily install and use the software you package. If you're interested in trying out **relagit** on Arch Linux, you can now find it on the AUR under the name **relagit**.
 
-I hope this post has provided some insights into the process of uploading a package to the AUR. If you have any questions or suggestions, feel free to leave a comment below.
-
 Happy packaging and happy coding!
